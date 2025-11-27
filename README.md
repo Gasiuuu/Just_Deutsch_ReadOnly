@@ -4,8 +4,9 @@
 
 A web application for learning German, enhanced by Artificial Intelligence.
 The platform uses external APIs — a dictionary API (PONS) and an AI service (OpenAI) — to generate personalized learning tasks and exercises based on the user's language level and preferences.
-Users can practice via quizzes, flashcards, AI-generated gap-fill and sentence translations exercises, and a daily challenges module.
-## This is my engineering thesis whose code is private
+Users can practice via quizzes, flashcards, AI-generated gap-fill and sentence translations exercises, and a daily challenges module.\
+ ### 🚨 IMPORTANT: This is my engineering thesis whose code is currently private
+<br/>
 
 ## About the Project
 Just_Deutsch is an online learning application aimed at helping users learn German in a flexible, personalized way.\
